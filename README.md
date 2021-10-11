@@ -8,5 +8,5 @@ Language: c/java/go/php/python/javascript/nodejs
 
 ![Profile views](https://komarev.com/ghpvc/?username=WGrape)
 
-![img](https://github-readme-stats.vercel.app/api?username=Wgrape&show_icons=true)
+![img](https://github-readme-stats.vercel.app/api?username=Wgrape)
 
