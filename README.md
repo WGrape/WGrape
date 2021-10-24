@@ -2,7 +2,7 @@
   
 ### Hi there! 👋
 
-I am a software engineer, i love programing and create some open source projects sometimes.
+I am a software engineer, and I love programming and sometimes creating open source projects.
 
 Research: architecture/middleware/redis/database/back-end
 
