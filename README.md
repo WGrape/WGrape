@@ -1,5 +1,8 @@
 <div align="">
 
+<p>Email: wgrapeu@gmail.com | Wechat: theshining1</p>
+
+  
 <!-- ### Hi there! 👋 -->
 <!-- I am a software engineer, and I love programming and sometimes creating open source projects. -->
   
