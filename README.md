@@ -1,5 +1,10 @@
 <div align="">
   
+### Hi there! 👋  
+
+Welcome to my github repos, here is my [website](https://WGrape.github.io/), [blog](https://github.com/WGrape/Blog) and [gists](https://gist.github.com/WGrape).
+  
+  
 <!-- ### Hi there! 👋 -->
 <!-- I am a software engineer, and I love programming and sometimes creating open source projects. -->
   
