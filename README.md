@@ -7,7 +7,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 #### Recommend repositories
 [lexer](https://github.com/WGrape/lexer), [esupdater](https://github.com/WGrape/esupdater), [parseAOF](https://github.com/WGrape/parseAOF), [bitmap](https://github.com/WGrape/bitmap), [matching](https://github.com/WGrape/matching), [golib](https://github.com/WGrape/golib), [Akama](https://github.com/WGrape/Akama), [APINotice](https://github.com/WGrape/APINotice), [automan](https://github.com/WGrape/automan), [runview](https://github.com/WGrape/runview), [page](https://github.com/WGrape/page) 
   
-<img src="https://github-readme-stats.vercel.app/api?username=wgrape&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs"> 
+<img src="https://github-readme-stats.vercel.app/api?username=wgrape&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs&count_private=true"> 
 
 <!-- ### Hi there! 👋 -->
 <!-- I am a software engineer, and I love programming and sometimes creating open source projects. -->
