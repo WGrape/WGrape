@@ -28,6 +28,9 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
+#### Views
+<img src="https://komarev.com/ghpvc/?username=WGrape" />
+  
 <!-- ### Hi there! 👋 -->
 <!-- I am a software engineer, and I love programming and sometimes creating open source projects. -->
   
