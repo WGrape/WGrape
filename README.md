@@ -4,9 +4,38 @@
 
 Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater](https://github.com/WGrape/esupdater), [parseAOF](https://github.com/WGrape/parseAOF) are some of my popular repos. It's very glad to share something with you, and here is my [website](https://WGrape.github.io/), [blog](https://github.com/WGrape/Blog) and [gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420). Sincerely hope it will help you !
 
-#### Recommend repositories
-[lexer](https://github.com/WGrape/lexer), [esupdater](https://github.com/WGrape/esupdater), [parseAOF](https://github.com/WGrape/parseAOF), [bitmap](https://github.com/WGrape/bitmap), [matching](https://github.com/WGrape/matching), [golib](https://github.com/WGrape/golib), [Akama](https://github.com/WGrape/Akama), [apimock](https://github.com/WGrape/apimock), [CIManager](https://github.com/WGrape/CIManager), [posture](https://github.com/WGrape/posture), [APINotice](https://github.com/WGrape/APINotice), [automan](https://github.com/WGrape/automan), [runview](https://github.com/WGrape/runview), [page](https://github.com/WGrape/page) 
+<!-- #### Recommend repositories
+[lexer](https://github.com/WGrape/lexer), [esupdater](https://github.com/WGrape/esupdater), [parseAOF](https://github.com/WGrape/parseAOF), [bitmap](https://github.com/WGrape/bitmap), [matching](https://github.com/WGrape/matching), [golib](https://github.com/WGrape/golib), [Akama](https://github.com/WGrape/Akama), [apimock](https://github.com/WGrape/apimock), [CIManager](https://github.com/WGrape/CIManager), [posture](https://github.com/WGrape/posture), [APINotice](https://github.com/WGrape/APINotice), [automan](https://github.com/WGrape/automan), [runview](https://github.com/WGrape/runview), [page](https://github.com/WGrape/page)   -->
   
+<details>
+  <summary><h3>Recommend repositories</h3></summary>
+
+#### Compiler
+- [lexer](https://github.com/WGrape/lexer) : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions.
+
+#### Middleware
+- [esupdater](https://github.com/WGrape/esupdater) : A high-performance lightweight framework of PHP to achieve incremental update of ES documents.
+- [parseAOF](https://github.com/WGrape/parseAOF) : A simple and fast tool to parse the AOF file of redis.
+  
+#### Go community
+- [bitmap](https://github.com/WGrape/bitmap) : A simple and easy-to-use bitmap library based on Go language.
+- [matching](https://github.com/WGrape/matching) : A general and configurable user matching library based on Go language.
+- [golib](https://github.com/WGrape/golib) : A simple and easy-to-use library in go.
+- [automan](https://github.com/WGrape/automan) : A lightweight and extensible automated testing framework based on Go.
+
+#### Devops
+- [apimock](https://github.com/WGrape/apimock) : A lightweight solution in golang for API mock and automatic generation of API documentation.
+- [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple gitlab golang projects.
+- [posture](https://github.com/WGrape/posture) : The out of box tool for you to write and manage your code in the right posture.
+- [APINotice](https://github.com/WGrape/APINotice) : A service-level alarm platform based on kibana watcher.
+- [runview](https://github.com/WGrape/runview) : A visual tool for viewing PHP code execution records.
+  
+#### Tools  
+- [page](https://github.com/WGrape/page) : The page for your personal customization
+- [Akama](https://github.com/WGrape/Akama) : The Translation articles.
+
+</details>
+
 <img src="https://github-readme-stats.vercel.app/api?username=wgrape&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs&count_private=true"> 
 
 #### Languages and Tools
