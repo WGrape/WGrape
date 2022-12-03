@@ -24,7 +24,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 #### Devops
 - [apimock](https://github.com/WGrape/apimock) : A lightweight solution in golang for API mock and automatic generation of API documentation.
-- [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple gitlab golang projects.
+- [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple golang projects.
 - [APINotice](https://github.com/WGrape/APINotice) : A service-level alarm platform based on kibana watcher.
 - [runview](https://github.com/WGrape/runview) : A visual tool for viewing PHP code execution records.
 
