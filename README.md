@@ -32,12 +32,15 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 - [APINotice](https://github.com/WGrape/APINotice) : A service-level alarm platform based on kibana watcher.
 - [runview](https://github.com/WGrape/runview) : A visual tool for viewing PHP code execution records.
 
-#### Go community
+#### Go Community
 - [gomicro](https://github.com/WGrape/gomicro) : Build a complete golang microservice ecosystem from scratch.
 - [bitmap](https://github.com/WGrape/bitmap) : A simple and easy-to-use bitmap library based on Go language.
 - [matching](https://github.com/WGrape/matching) : A general and configurable user matching library based on Go language.
 - [golib](https://github.com/WGrape/golib) : A simple and easy-to-use library in go.
 - [automan](https://github.com/WGrape/automan) : A lightweight and extensible automated testing framework based on Go.
+
+#### PHP Community
+- [quicklara](https://github.com/WGrape/quicklara) : Rapid building and getting started with laravel projects.
 
 #### Efficient Tools
 - [posture](https://github.com/WGrape/posture) : The out of box tool for you to write and manage your code in the right posture.
