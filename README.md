@@ -10,7 +10,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 [lexer](https://github.com/WGrape/lexer), [esupdater](https://github.com/WGrape/esupdater), [parseAOF](https://github.com/WGrape/parseAOF), [bitmap](https://github.com/WGrape/bitmap), [matching](https://github.com/WGrape/matching), [golib](https://github.com/WGrape/golib), [Akama](https://github.com/WGrape/Akama), [apimock](https://github.com/WGrape/apimock), [CIManager](https://github.com/WGrape/CIManager), [posture](https://github.com/WGrape/posture), [APINotice](https://github.com/WGrape/APINotice), [automan](https://github.com/WGrape/automan), [runview](https://github.com/WGrape/runview), [page](https://github.com/WGrape/page)   -->
   
 <details>
-  <summary><h3>1. Recommend repositories 👍</h3></summary>
+  <summary><h4>👍 1. Recommend repositories</h4></summary>
 
 #### Infrastructures
 - [VirtualMemory](https://github.com/WGrape/VirtualMemory) : A Virtual Memory Implementation In Computer Organization.
@@ -56,7 +56,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 </details>
 
-#### 1. Github Career /  Total Stars Earned : 737(A++)
+#### 2. ⭐ Github Career /  Total Stars Earned : 737(A++)
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats/issues/1471 -->  
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats#keep-your-fork-up-to-date -->  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=wgrape&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs&count_private=true&safdsaf=adsfsaf">  -->
@@ -65,7 +65,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 <img src="https://github-readme-stats-wgrape.vercel.app/api?username=wgrape&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs&count_private=true">
   
-#### 2. Languages and Tools 🔨
+#### 3. 🔨 Languages and Tools
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
@@ -88,7 +88,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 <img src="https://user-images.githubusercontent.com/35942268/178153369-fc8826ac-c71f-4293-93a8-09c1e50ae2b5.png" alt="devops" width="65" height="40" />
 </p>
 
-#### 3. Views 👀
+#### 4. 👀 Views
 <img src="https://komarev.com/ghpvc/?username=WGrape" />
   
 <!-- ### Hi there! 👋 -->
