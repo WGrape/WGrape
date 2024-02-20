@@ -12,46 +12,44 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 <details>
   <summary><h4>1. 👍 Recommend repositories</h4></summary>
 
-#### Infrastructures
+#### (1) Infrastructures
 - [ngxway](https://github.com/WGrape/ngxway) : A high-performance Nginx gateway service based on Openresty.
 <!-- - [Sherk](https://github.com/WGrape/Sherk) : A Relational Database System Implementation Based On C Language. -->
 <!-- - [VirtualMemory](https://github.com/WGrape/VirtualMemory) : A Virtual Memory Implementation In Computer Organization. -->
 
-#### Compiler
+#### (2) Compiler
 - [lexer](https://github.com/WGrape/lexer) : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions.
 
-#### Middleware
+#### (3) Middleware
 - [esupdater](https://github.com/WGrape/esupdater) : A high-performance lightweight framework of PHP to achieve incremental update of ES documents.
 - [parseAOF](https://github.com/WGrape/parseAOF) : A simple and fast tool to parse the AOF file of redis.
 - [parseRDB](https://github.com/WGrape/parseRDB) : A simple and fast golang library to parse the RDB file of redis.
 
-#### Devops
+#### (4) Go Community
+- [bitmap](https://github.com/WGrape/bitmap) : A simple and easy-to-use bitmap library based on Go language.
+- [matching](https://github.com/WGrape/matching) : A general and configurable user matching library based on Go language.
+- [golib](https://github.com/WGrape/golib) : A simple and easy-to-use library in go.
+<!-- - [gomicro](https://github.com/WGrape/gomicro) : Build a complete golang microservice ecosystem from scratch. -->
+<!-- - [automan](https://github.com/WGrape/automan) : A lightweight and extensible automated testing framework based on Go. -->
+
+<!-- #### (5) PHP Community -->
+<!-- - [quicklara](https://github.com/WGrape/quicklara) : Rapid building and getting started with laravel projects. -->
+
+#### (5) Devops and Efficient Tools
 - [sparrow](https://github.com/WGrape/sparrow) : A docker tool for one-click startup and management of multi service/environments.
 - [posture](https://github.com/WGrape/posture) : The out of box tool for you to write and manage your code in the right posture.
+- [page](https://github.com/WGrape/page) : The page for your personal customization.
+<!-- - [cache](https://github.com/WGrape/cache) : A third-party cache service built on Docker. -->
 <!-- - [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple golang projects. -->
 <!-- - [apimock](https://github.com/WGrape/apimock) : A lightweight solution in golang for API mock and automatic generation of API documentation. -->
 <!-- - [APINotice](https://github.com/WGrape/APINotice) : A service-level alarm platform based on kibana watcher. -->
 <!-- - [runview](https://github.com/WGrape/runview) : A visual tool for viewing PHP code execution records. -->
 
-#### Go Community
-<!-- - [gomicro](https://github.com/WGrape/gomicro) : Build a complete golang microservice ecosystem from scratch. -->
-- [bitmap](https://github.com/WGrape/bitmap) : A simple and easy-to-use bitmap library based on Go language.
-- [matching](https://github.com/WGrape/matching) : A general and configurable user matching library based on Go language.
-- [golib](https://github.com/WGrape/golib) : A simple and easy-to-use library in go.
-<!-- - [automan](https://github.com/WGrape/automan) : A lightweight and extensible automated testing framework based on Go. -->
-
-#### PHP Community
-<!-- - [quicklara](https://github.com/WGrape/quicklara) : Rapid building and getting started with laravel projects. -->
-
-#### Efficient Tools
-- [page](https://github.com/WGrape/page) : The page for your personal customization.
-<!-- - [cache](https://github.com/WGrape/cache) : A third-party cache service built on Docker. -->
-
-#### Learning Resources
-<!-- - [Akama](https://github.com/WGrape/Akama) : The Translation articles. -->
+#### (6) Learning Resources
 - [WGrape.github.io](https://github.com/WGrape/WGrape.github.io) : It's my only website.
 - [Blog](https://github.com/WGrape/Blog) : It's my technical blog.
 - [mygolint](https://github.com/WGrape/mygolint) : This is a golint tool for learning and research.
+<!-- - [Akama](https://github.com/WGrape/Akama) : The Translation articles. -->
 <!-- - [go-algorithms](https://github.com/WGrape/go-algorithms) : The common algorithms are implemented in go. -->
 
 </details>
