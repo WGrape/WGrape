@@ -39,8 +39,8 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 - [sparrow](https://github.com/WGrape/sparrow) : A docker tool for one-click startup and management of multi service/environments.
 - [posture](https://github.com/WGrape/posture) : The out of box tool for you to write and manage your code in the right posture.
 - [page](https://github.com/WGrape/page) : The page for your personal customization.
+- [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple golang projects.
 <!-- - [cache](https://github.com/WGrape/cache) : A third-party cache service built on Docker. -->
-<!-- - [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI for multiple golang projects. -->
 <!-- - [apimock](https://github.com/WGrape/apimock) : A lightweight solution in golang for API mock and automatic generation of API documentation. -->
 <!-- - [APINotice](https://github.com/WGrape/APINotice) : A service-level alarm platform based on kibana watcher. -->
 <!-- - [runview](https://github.com/WGrape/runview) : A visual tool for viewing PHP code execution records. -->
