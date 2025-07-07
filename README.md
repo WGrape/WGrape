@@ -57,7 +57,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 #### 2. ⭐ Github Career /  Total Stars Earned : 895(A++)
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats/issues/1471 -->  
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats#keep-your-fork-up-to-date -->  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=wgrape&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,contribs&count_private=true&safdsaf=adsfsaf">  -->
+
 
 [try refresh](https://github.com/WGrape) or [check detail](https://www.githubwrapped.io/WGrape)
 
@@ -76,7 +76,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
 
-<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="tensorflow" height="40" />
+<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="tensorflow" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
@@ -93,19 +93,19 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="postgresql" width="40" height="40" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="postgresql" width="40" height="40" />
+ 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="postgresql" width="40" height="40" />
+
+
+
+
+
+
 -->
 
 </p>
@@ -118,7 +118,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
   
 <!-- ![img](https://img.shields.io/badge/Research-architecture\/middleware\/redis\/database\/backend-red.svg) &nbsp; ![img](https://img.shields.io/badge/Language-c\/java\/go\/php\/python\/javascript\/nodejs-green.svg) &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=WGrape) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Wgrape" width="450px" />   -->
+
   
 <!-- ![img](https://github-readme-stats.vercel.app/api?username=Wgrape) -->
 
