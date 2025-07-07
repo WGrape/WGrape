@@ -76,7 +76,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
 
-<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="tensorflow" width="40" height="40" />
+<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="langchain" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
