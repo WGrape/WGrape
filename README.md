@@ -54,7 +54,7 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 </details>
 
-#### 2. ⭐ Github Career /  Total Stars Earned : 895(A++)
+#### 2. ⭐ Github Career /  Total Stars Earned : 903(A++)
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats/issues/1471 -->  
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats#keep-your-fork-up-to-date -->  
 
