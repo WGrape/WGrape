@@ -2,7 +2,7 @@
 
 <img width="800" height="430" alt="微信图片_20250828163705_107_52" src="https://github.com/user-attachments/assets/d4d0621b-5dbd-4d96-86ec-24a109e6a420" />
 
-<div align="right"><a href="https://item.jd.com/10169208264077.html" target="_blank">点击购买</a></div>
+<div align="right"><a href="https://item.jd.com/10169208264077.html" target="_blank">点击购买《大模型应用落地：实战AI搜索》</a></div>
 
 <!--
 ## 原创书籍
