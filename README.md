@@ -2,6 +2,8 @@
 
 <img width="800" height="430" alt="微信图片_20250828163705_107_52" src="https://github.com/user-attachments/assets/d4d0621b-5dbd-4d96-86ec-24a109e6a420" />
 
+<div align="right"><a href="https://item.jd.com/10169208264077.html" target="_blank">点击购买</a></div>
+
 <!--
 ## 原创书籍
 《大模型应用落地：实战AI搜索》
@@ -29,9 +31,9 @@
 3. 从0到1指导：零基础也能快速的独立构建专属AI搜索应用，随心所欲的扩展。
 4. 系统梳理原理：覆盖检索增强生成（RAG）、混合检索、向量化等核心工程化技术。
 
-<img width="200" alt="截屏2025-08-28 15 46 18" src="https://github.com/user-attachments/assets/964ddb1f-ddfa-45ee-8910-9115a7ce01f1" />
 
-<img width="1828" height="594" alt="image" src="https://github.com/user-attachments/assets/70920458-e40b-49f1-bd76-af28c7c278b3" />
+
+
 
 [点击购买](https://item.jd.com/10169208264077.html)
 
