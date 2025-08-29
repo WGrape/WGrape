@@ -3,7 +3,11 @@
 ## 📚 原创自荐
 <!-- <img width="800" height="430" alt="微信图片_20250828163705_107_52" src="https://github.com/user-attachments/assets/d4d0621b-5dbd-4d96-86ec-24a109e6a420" /> -->
 
-<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/7ed4a09b-69b5-4d01-b185-b6e11f70ed2b" />
+<!-- <img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/7ed4a09b-69b5-4d01-b185-b6e11f70ed2b" /> -->
+
+<!-- <img width="1023" height="233" alt="image" src="https://github.com/user-attachments/assets/a8f01bef-1674-4cd4-8425-d450d96d337e" /> -->
+
+<img width="999" height="210" alt="image" src="https://github.com/user-attachments/assets/e6a0b140-11fb-442b-8e3f-acbabc205b23" />
 
 <div align="right"><a href="https://item.jd.com/10169208264077.html" target="_blank">点击购买《大模型应用落地：实战AI搜索》</a></div>
 
