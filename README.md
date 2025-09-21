@@ -110,7 +110,10 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 
 
 
-[![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github-readme-stats.vercel.app/api?username=wgrape)
+
 
 #### 3. 🔨 Languages and Tools
 <p align="left"> 
