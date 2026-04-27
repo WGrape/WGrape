@@ -25,8 +25,6 @@
 3. 从0到1指导：零基础也能独立构建专属AI搜索应用。
 4. 系统梳理原理：覆盖检索增强生成（RAG）、混合检索、向量化等核心技术。
 
-
-
 [点击购买](https://item.jd.com/10169208264077.html)
 -->
 
@@ -38,14 +36,8 @@
 3. 从0到1指导：零基础也能快速的独立构建专属AI搜索应用，随心所欲的扩展。
 4. 系统梳理原理：覆盖检索增强生成（RAG）、混合检索、向量化等核心工程化技术。
 
-
-
-
-
 [点击购买](https://item.jd.com/10169208264077.html)
-
 -->
-
 
 
 ## 👋 Hi there!
@@ -115,61 +107,32 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 [![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github-readme-stats.vercel.app/api?username=wgrape)
 
 
-#### 3. 🔨 Languages and Tools
-<p align="left"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-
-<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="langchain" width="60" height="60" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-
-<img src="https://user-images.githubusercontent.com/35942268/178153369-fc8826ac-c71f-4293-93a8-09c1e50ae2b5.png" alt="devops" width="60" height="60" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="java" width="40" height="40"/>  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
 <!--
-
-
- 
-
-
-
-
-
-
-
-
-
-
+#### 3. 🔨 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://github.com/WGrape/WGrape/assets/35942268/338d582e-c4b4-4e31-a8e1-fd3e1bca6c16" alt="langchain" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/35942268/178153369-fc8826ac-c71f-4293-93a8-09c1e50ae2b5.png" alt="devops" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
 -->
 
-</p>
-
-#### 4. 👀 Views
+#### 3. 👀 Views
 <img src="https://komarev.com/ghpvc/?username=WGrape" />
   
 <!-- ### Hi there! 👋 -->
 <!-- I am a software engineer, and I love programming and sometimes creating open source projects. -->
   
 <!-- ![img](https://img.shields.io/badge/Research-architecture\/middleware\/redis\/database\/backend-red.svg) &nbsp; ![img](https://img.shields.io/badge/Language-c\/java\/go\/php\/python\/javascript\/nodejs-green.svg) &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=WGrape) -->
-
 
   
 <!-- ![img](https://github-readme-stats.vercel.app/api?username=Wgrape) -->
@@ -178,4 +141,3 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 Research: architecture/middleware/redis/database/back-end
 Language: c/java/go/php/python/javascript/nodejs
 -->  
-</div>
