@@ -56,7 +56,6 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 - [golib](https://github.com/WGrape/golib) : A simple and easy-to-use library in go.
 - [posture](https://github.com/WGrape/posture) : The out of box tool for you to write and manage your code in the right posture.
 - [CIManager](https://github.com/WGrape/CIManager) : A lightweight open source framework for efficiently managing common CI/CD for multi projects.
-- [visuals](https://github.com/WGrape/visuals) : An IT online learning platform that champions dynamic visualization as its defining edge, making learning feel less like studying and more like discovering.
 
 </details>
 
