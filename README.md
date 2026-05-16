@@ -63,14 +63,16 @@ Welcome to my github space, [lexer](https://github.com/WGrape/lexer), [esupdater
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats/issues/1471 -->  
 <!-- [Down Time] Card throws 'maximum retries exceeded' error 解决方案 https://github.com/anuraghazra/github-readme-stats#keep-your-fork-up-to-date -->  
 
-[try refresh](https://github.com/WGrape) or [check detail](https://github-readme-stats.vercel.app/api?username=wgrape)
-
+<!-- [try refresh](https://github.com/WGrape) or [check detail](https://github-readme-stats.vercel.app/api?username=wgrape) -->
 
 
 <!-- [![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github-readme-stats.vercel.app/api?username=wgrape)
+<!-- [![Wgrape's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgrape)](https://github-readme-stats.vercel.app/api?username=wgrape) -->
 
+<!-- fix error: github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats | https://github.com/anuraghazra/github-readme-stats/issues/4871 -->
+[![WGrape's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=WGrape)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 #### 3. 🔨 Languages and Tools
